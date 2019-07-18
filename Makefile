@@ -1,5 +1,5 @@
 DOCKER_REPO := "tcsmuc/mattermost-team"
-VERSION := "5.12.4"
+VERSION := "5.13.0"
 
 .PHONY: all
 all: | build push
